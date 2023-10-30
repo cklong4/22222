@@ -1,6 +1,9 @@
 # dbg
 # 大表哥的专属策略集合
 IP-CIDR,156.238.0.0/16,no-resolve
+DOMAIN-KEYWORD,ysdbg
+DOMAIN-KEYWORD,dbgky
+DOMAIN-KEYWORD,hzdbg
 DOMAIN-KEYWORD,lzcdn
 DOMAIN-KEYWORD,lz-cdn
 DOMAIN-KEYWORD,cdnlz
