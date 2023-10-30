@@ -1,0 +1,7 @@
+# dbg
+# 大表哥的专属策略集合
+IP-CIDR,156.238.0.0/16,no-resolve
+DOMAIN-KEYWORD,lzcdn
+DOMAIN-KEYWORD,lz-cdn
+DOMAIN-KEYWORD,cdnlz
+DOMAIN-KEYWORD,cdn-lz
